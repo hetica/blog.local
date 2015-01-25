@@ -1,0 +1,36 @@
+body {
+	width: 85% ;
+	margin: auto ;
+}
+
+h1 {
+	color: blue ;
+}
+
+h2, h3 {
+	color: blue;
+}
+
+form {
+	display:inline-block;
+}
+
+footer {
+	margin: 35px 0 0 0 ;
+	padding: 10px 0 10px 0 ;
+	border-top: solid 1px ;
+	font-style: italic ;
+	text-align: center ;
+}
+
+article {
+	background: #E5F2F5 ;
+	padding: 4px 10px ;
+	margin: 8px 0;
+	border-radius: 8px ;
+}
+
+#alert {
+	color: red ;
+	font-style: italic;
+}
